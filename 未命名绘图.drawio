@@ -103,6 +103,9 @@
         <mxCell id="3cOC9QnBmNZhe29TmEEk-35" value="Bs4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="793.5" y="790" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="3cOC9QnBmNZhe29TmEEk-36" value="微博" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="847" y="880" width="146" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
